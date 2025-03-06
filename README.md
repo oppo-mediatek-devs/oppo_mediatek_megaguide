@@ -1,7 +1,6 @@
 <h1 align="center">OPPO MediaTek Mega-guide</h1>
 <p align="center">This repository contains information and tools that will be used to get more into your devices.</p>
 
-## ⚠️ Warning
 > [!Caution]
 > DO THIS AT YOUR OWN RISK, WE WILL NOT RESPONSIBLE FOR ANY PROBLEM THAT YOU HAD!
 > 
