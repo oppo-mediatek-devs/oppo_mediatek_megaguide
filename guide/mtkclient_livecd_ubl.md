@@ -7,7 +7,7 @@
 ### 2. Prepare your USB drive and Rufus
 - Get Rufus here: [Click me](https://rufus.ie/en/)
 - Open Rufus, select your USB drive and select your Live CD ISO that you have downloaded
-- Make sure to choose the correct "Partition scheme" and "Target system"
+- Make sure to choose the correct "Partition scheme" and "Target system" according to your computer
 - Rufus will ask you if you want to write in ISO image mode or DD image mode, simply select DD image mode
 - If everything is fine, it should start writing to your USB drive
 
